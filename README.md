@@ -1,4 +1,6 @@
-# sascompetitions
+# SAS Competition
+## Прогнозирование вероятности невозврата кредита
+01 Декабря 2017
 
 https://sascompetitions.ru/competitions/forecasting-the-probability-of-non-repayment-of-loan
 
